@@ -1,3 +1,5 @@
+// Colours are defined in HSL format. https://css-tricks.com/yay-for-hsla
+
 module.exports = {
     colour:{
         brand: { hue: 164, sat: 100, light: 30 },
