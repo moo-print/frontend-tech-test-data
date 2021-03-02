@@ -2,136 +2,216 @@
 	"products": [
 		{
 			"id": "1",
-			"product-group": "Hardcover Notebook",
-			"name": "Sunset notebook with dotted paper",
+			"product-group-label": "Hardcover Notebook",
+			"product-group-id": "hardcover-notebook",
+			"item-description": "Sunset notebook with dotted paper",
 			"attributes": [
 				{
-					"cover-colour": "red"
+					"id": "cc1",
+					"type": "cover-colour",
+					"value": "red",
+					"label": "Sunset"
 				},
 				{
-					"paper-type": "dotted"
+					"id": "pt1",
+					"type": "paper-type",
+					"value": "dotted",
+					"label": "Dotted paper"
 				},
 				{
-					"slip-case-included": false
+					"id": "sc1",
+					"type": "slip-case-included",
+					"value": false,
+					"label": "Slipcase"
 				}
 			],
 			"price": 17
 		},
 		{
 			"id": "2",
-			"product-group": "Hardcover Notebook",
-			"name": "Ocean notebook with dotted paper",
+			"product-group-label": "Hardcover Notebook",
+			"product-group-id": "hardcover-notebook",
+			"item-description": "Ocean notebook with dotted paper",
 			"attributes": [
 				{
-					"cover-colour": "blue"
+					"id": "cc2",
+					"type": "cover-colour",
+					"value": "blue",
+					"label": "Ocean"
 				},
 				{
-					"paper-type": "dotted"
+					"id": "pt1",
+					"type": "paper-type",
+					"value": "dotted",
+					"label": "Dotted paper"
 				},
 				{
-					"slip-case-included": false
+					"id": "sc1",
+					"type": "slip-case-included",
+					"value": false,
+					"label": "Slipcase"
 				}
 			],
 			"price": 18
 		},
 		{
 			"id": "3",
-			"product-group": "Hardcover Notebook",
-			"name": "Sunset notebook with dotted paper and Slipcase",
+			"product-group-label": "Hardcover Notebook",
+			"product-group-id": "hardcover-notebook",
+			"item-description": "Sunset notebook with dotted paper and Slipcase",
 			"attributes": [
 				{
-					"cover-colour": "red"
+					"id": "cc1",
+					"type": "cover-colour",
+					"value": "red",
+					"label": "Sunset"
 				},
 				{
-					"paper-type": "dotted"
+					"id": "pt1",
+					"type": "paper-type",
+					"value": "dotted",
+					"label": "Dotted paper"
 				},
 				{
-					"slip-case-included": true
+					"id": "sc2",
+					"type": "slip-case-included",
+					"value": true,
+					"label": "Slipcase"
 				}
 			],
 			"price": 21.99
 		},
 		{
 			"id": "4",
-			"product-group": "Hardcover Notebook",
-			"name": "Ocean notebook with dotted paper and Slipcase",
+			"product-group-label": "Hardcover Notebook",
+			"product-group-id": "hardcover-notebook",
+			"item-description": "Ocean notebook with dotted paper and Slipcase",
 			"attributes": [
 				{
-					"cover-colour": "blue"
+					"id": "cc2",
+					"type": "cover-colour",
+					"value": "blue",
+					"label": "Ocean"
 				},
 				{
-					"paper-type": "dotted"
+					"id": "pt1",
+					"type": "paper-type",
+					"value": "dotted",
+					"label": "Dotted paper"
 				},
 				{
-					"slip-case-included": true
+					"id": "sc2",
+					"type": "slip-case-included",
+					"value": true,
+					"label": "Slipcase"
 				}
 			],
 			"price": 19.99
 		},
 		{
 			"id": "5",
-			"product-group": "Hardcover Notebook",
-			"name": "Sunset notebook with lined paper",
+			"product-group-label": "Hardcover Notebook",
+			"product-group-id": "hardcover-notebook",
+			"item-description": "Sunset notebook with lined paper",
 			"attributes": [
 				{
-					"cover-colour": "red"
+					"id": "cc1",
+					"type": "cover-colour",
+					"value": "red",
+					"label": "Sunset"
 				},
 				{
-					"paper-type": "lined"
+					"id": "pt2",
+					"type": "paper-type",
+					"value": "lined",
+					"label": "Lined paper"
 				},
 				{
-					"slip-case-included": false
+					"id": "sc1",
+					"type": "slip-case-included",
+					"value": false,
+					"label": "Slipcase"
 				}
 			],
 			"price": 15
 		},
 		{
 			"id": "6",
-			"product-group": "Hardcover Notebook",
-			"name": "Ocean notebook with lined paper",
+			"product-group-label": "Hardcover Notebook",
+			"product-group-id": "hardcover-notebook",
+			"item-description": "Ocean notebook with lined paper",
 			"attributes": [
 				{
-					"cover-colour": "blue"
+					"id": "cc2",
+					"type": "cover-colour",
+					"value": "blue",
+					"label": "Ocean"
 				},
 				{
-					"paper-type": "lined"
+					"id": "pt2",
+					"type": "paper-type",
+					"value": "lined",
+					"label": "Lined paper"
 				},
 				{
-					"slip-case-included": false
+					"id": "sc1",
+					"type": "slip-case-included",
+					"value": false,
+					"label": "Slipcase"
 				}
 			],
 			"price": 17
 		},
 		{
 			"id": "7",
-			"product-group": "Hardcover Notebook",
-			"name": "Sunset notebook with lined paper and Slipcase",
+			"product-group-label": "Hardcover Notebook",
+			"product-group-id": "hardcover-notebook",
+			"item-description": "Sunset notebook with lined paper and Slipcase",
 			"attributes": [
 				{
-					"cover-colour": "red"
+					"id": "cc1",
+					"type": "cover-colour",
+					"value": "red",
+					"label": "Sunset"
 				},
 				{
-					"paper-type": "lined"
+					"id": "pt2",
+					"type": "paper-type",
+					"value": "lined",
+					"label": "Lined paper"
 				},
 				{
-					"slip-case-included": true
+					"id": "sc2",
+					"type": "slip-case-included",
+					"value": true,
+					"label": "Slipcase"
 				}
 			],
 			"price": 15
 		},
 		{
 			"id": "8",
-			"product-group": "Hardcover Notebook",
-			"name": "Ocean notebook with lined paper and Slipcase",
+			"product-group-label": "Hardcover Notebook",
+			"product-group-id": "hardcover-notebook",
+			"item-description": "Ocean notebook with lined paper and Slipcase",
 			"attributes": [
 				{
-					"cover-colour": "blue"
+					"id": "cc2",
+					"type": "cover-colour",
+					"value": "blue",
+					"label": "Ocean"
 				},
 				{
-					"paper-type": "lined"
+					"id": "pt2",
+					"type": "paper-type",
+					"value": "lined",
+					"label": "Lined paper"
 				},
 				{
-					"slip-case-included": true
+					"id": "sc2",
+					"type": "slip-case-included",
+					"value": true,
+					"label": "Slipcase"
 				}
 			],
 			"price": 18.99
