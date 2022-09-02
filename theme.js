@@ -1,11 +1,11 @@
 // Colours are defined in HSL format. https://css-tricks.com/yay-for-hsla
 
 module.exports = {
+    typography:{
+        body1: { hue: 0, sat: 0, light: 21 },
+        h1: { hue: 0, sat: 0, light: 12 }
+    },
     colour:{
-        brand: { hue: 164, sat: 100, light: 30 },
-        cool: { hue: 208, sat: 44, light: 60 },
-        hot: { hue: 15, sat: 81, light: 59 },
-        warm: { hue: 43, sat: 89, light: 56 },
-        neutral: { hue: 199, sat: 15, light: 63 },
+        highlight: { hue: 164, sat: 100, light: 30 }
     }
 }
