@@ -9,19 +9,22 @@
 					"id": "cc1",
 					"type": "cover-colour",
 					"value": "red",
-					"label": "Sunset"
+					"label": "Sunset",
+					"selectable": true
 				},
 				{
 					"id": "pt1",
 					"type": "paper-type",
 					"value": "dotted",
-					"label": "Dotted"
+					"label": "Dotted",
+					"selectable": true
 				},
 				{
 					"id": "pc1",
 					"type": "page-count",
 					"value": 170,
-					"label": "170"
+					"label": "170",
+					"selectable": false
 				}
 			],
 			"price": 17
@@ -35,19 +38,22 @@
 					"id": "cc1",
 					"type": "cover-colour",
 					"value": "red",
-					"label": "Sunset"
+					"label": "Sunset",
+					"selectable": true
 				},
 				{
 					"id": "pt1",
 					"type": "paper-type",
 					"value": "lined",
-					"label": "Lined"
+					"label": "Lined",
+					"selectable": true
 				},
 				{
 					"id": "pc1",
 					"type": "page-count",
 					"value": 176,
-					"label": "176"
+					"label": "176",
+					"selectable": false
 				}
 			],
 			"price": 15
@@ -61,19 +67,22 @@
 					"id": "cc1",
 					"type": "cover-colour",
 					"value": "blue",
-					"label": "Ocean"
+					"label": "Ocean",
+					"selectable": true
 				},
 				{
 					"id": "pt1",
 					"type": "paper-type",
 					"value": "dotted",
-					"label": "Dotted"
+					"label": "Dotted",
+					"selectable": true
 				},
 				{
 					"id": "pc1",
 					"type": "page-count",
 					"value": 170,
-					"label": "170"
+					"label": "170",
+					"selectable": false
 				}
 			],
 			"price": 17
@@ -87,19 +96,22 @@
 					"id": "cc1",
 					"type": "cover-colour",
 					"value": "blue",
-					"label": "Ocean"
+					"label": "Ocean",
+					"selectable": true
 				},
 				{
 					"id": "pt1",
 					"type": "paper-type",
 					"value": "lined",
-					"label": "Lined"
+					"label": "Lined",
+					"selectable": true
 				},
 				{
 					"id": "pc1",
 					"type": "page-count",
 					"value": 176,
-					"label": "176"
+					"label": "176",
+					"selectable": false
 				}
 			],
 			"price": 15
