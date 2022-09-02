@@ -2,8 +2,8 @@
 	"products": [
 		{
 			"id": "1",
-			"product-group-label": "Hardcover Notebook",
-			"product-group-id": "hardcover-notebook",
+			"product-label": "Hardcover Notebook",
+			"product-id": "hardcover-notebook",
 			"attributes": [
 				{
 					"id": "cc1",
@@ -15,47 +15,21 @@
 					"id": "pt1",
 					"type": "paper-type",
 					"value": "dotted",
-					"label": "Dotted paper"
+					"label": "Dotted"
 				},
 				{
-					"id": "sc1",
-					"type": "slip-case-included",
-					"value": false,
-					"label": "Slipcase"
+					"id": "pc1",
+					"type": "page-count",
+					"value": 170,
+					"label": "170"
 				}
 			],
 			"price": 17
 		},
 		{
 			"id": "2",
-			"product-group-label": "Hardcover Notebook",
-			"product-group-id": "hardcover-notebook",
-			"attributes": [
-				{
-					"id": "cc2",
-					"type": "cover-colour",
-					"value": "blue",
-					"label": "Ocean"
-				},
-				{
-					"id": "pt1",
-					"type": "paper-type",
-					"value": "dotted",
-					"label": "Dotted paper"
-				},
-				{
-					"id": "sc1",
-					"type": "slip-case-included",
-					"value": false,
-					"label": "Slipcase"
-				}
-			],
-			"price": 18
-		},
-		{
-			"id": "3",
-			"product-group-label": "Hardcover Notebook",
-			"product-group-id": "hardcover-notebook",
+			"product-label": "Hardcover Notebook",
+			"product-id": "hardcover-notebook",
 			"attributes": [
 				{
 					"id": "cc1",
@@ -65,148 +39,70 @@
 				},
 				{
 					"id": "pt1",
-					"type": "paper-type",
-					"value": "dotted",
-					"label": "Dotted paper"
-				},
-				{
-					"id": "sc2",
-					"type": "slip-case-included",
-					"value": true,
-					"label": "Slipcase"
-				}
-			],
-			"price": 21.99
-		},
-		{
-			"id": "4",
-			"product-group-label": "Hardcover Notebook",
-			"product-group-id": "hardcover-notebook",
-			"attributes": [
-				{
-					"id": "cc2",
-					"type": "cover-colour",
-					"value": "blue",
-					"label": "Ocean"
-				},
-				{
-					"id": "pt1",
-					"type": "paper-type",
-					"value": "dotted",
-					"label": "Dotted paper"
-				},
-				{
-					"id": "sc2",
-					"type": "slip-case-included",
-					"value": true,
-					"label": "Slipcase"
-				}
-			],
-			"price": 19.99
-		},
-		{
-			"id": "5",
-			"product-group-label": "Hardcover Notebook",
-			"product-group-id": "hardcover-notebook",
-			"attributes": [
-				{
-					"id": "cc1",
-					"type": "cover-colour",
-					"value": "red",
-					"label": "Sunset"
-				},
-				{
-					"id": "pt2",
 					"type": "paper-type",
 					"value": "lined",
-					"label": "Lined paper"
+					"label": "Lined"
 				},
 				{
-					"id": "sc1",
-					"type": "slip-case-included",
-					"value": false,
-					"label": "Slipcase"
+					"id": "pc1",
+					"type": "page-count",
+					"value": 176,
+					"label": "176"
 				}
 			],
 			"price": 15
 		},
 		{
-			"id": "6",
-			"product-group-label": "Hardcover Notebook",
-			"product-group-id": "hardcover-notebook",
+			"id": "3",
+			"product-label": "Hardcover Notebook",
+			"product-id": "hardcover-notebook",
 			"attributes": [
 				{
-					"id": "cc2",
+					"id": "cc1",
 					"type": "cover-colour",
 					"value": "blue",
 					"label": "Ocean"
 				},
 				{
-					"id": "pt2",
+					"id": "pt1",
 					"type": "paper-type",
-					"value": "lined",
-					"label": "Lined paper"
+					"value": "dotted",
+					"label": "Dotted"
 				},
 				{
-					"id": "sc1",
-					"type": "slip-case-included",
-					"value": false,
-					"label": "Slipcase"
+					"id": "pc1",
+					"type": "page-count",
+					"value": 170,
+					"label": "170"
 				}
 			],
 			"price": 17
 		},
 		{
-			"id": "7",
-			"product-group-label": "Hardcover Notebook",
-			"product-group-id": "hardcover-notebook",
+			"id": "4",
+			"product-label": "Hardcover Notebook",
+			"product-id": "hardcover-notebook",
 			"attributes": [
 				{
 					"id": "cc1",
-					"type": "cover-colour",
-					"value": "red",
-					"label": "Sunset"
-				},
-				{
-					"id": "pt2",
-					"type": "paper-type",
-					"value": "lined",
-					"label": "Lined paper"
-				},
-				{
-					"id": "sc2",
-					"type": "slip-case-included",
-					"value": true,
-					"label": "Slipcase"
-				}
-			],
-			"price": 15
-		},
-		{
-			"id": "8",
-			"product-group-label": "Hardcover Notebook",
-			"product-group-id": "hardcover-notebook",
-			"attributes": [
-				{
-					"id": "cc2",
 					"type": "cover-colour",
 					"value": "blue",
 					"label": "Ocean"
 				},
 				{
-					"id": "pt2",
+					"id": "pt1",
 					"type": "paper-type",
 					"value": "lined",
-					"label": "Lined paper"
+					"label": "Lined"
 				},
 				{
-					"id": "sc2",
-					"type": "slip-case-included",
-					"value": true,
-					"label": "Slipcase"
+					"id": "pc1",
+					"type": "page-count",
+					"value": 176,
+					"label": "176"
 				}
 			],
-			"price": 18.99
+			"price": 15
 		}
 	]
 }
