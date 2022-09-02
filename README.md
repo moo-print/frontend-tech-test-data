@@ -1,4 +1,4 @@
-# MOO Frontend Technical Assignment (2hrs)
+# MOO Frontend Technical Assignment (2hrs approx)
 
 ### Files
 
