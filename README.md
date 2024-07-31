@@ -1,10 +1,5 @@
 # MOO Frontend Technical Assignment (2hrs approx)
 
-### Files
-
-* Product Configurator component input data - `./productOptionsData.json`
-* Product shot - `./productShot.jpeg`
-
 ### Bootstrapping 
 
 We encourage you to use tooling to bootstrap the app so that you can get started with the task at hand as quickly as possible.  Here is an example with React, Typescript and Storybook - which are the choices we would suggest for this exercise.
