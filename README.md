@@ -2,14 +2,11 @@
 
 ### Files
 
-* Product Configurator component input data - `./productOptionsData.json`
-* Theme - `./theme.js`
-* Product shot - `./productShot.jpeg`
+- Product Configurator component input data - `./productOptionsData.json`
+- Product shot - `./productShot.jpeg`
 
-### Bootstrapping 
+### Bootstrapping
 
-We encourage you to use tooling to bootstrap the app so that you can get started with the task at hand as quickly as possible.  Here is an example with React, Typescript and Storybook - which are the choices we would suggest for this exercise.
+We encourage you to use tooling to bootstrap the app so that you can start the task at hand as quickly as possible. Here is an example using React and TypeScript, but feel free to use any tools of your choosing.
 
-- `npx create-react-app product-configurator --template typescript` 
-- `cd product-configurator`
-- `npx -p @storybook/cli sb init`
+- `npx create-react-app product-configurator --template typescript`
