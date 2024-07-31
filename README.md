@@ -3,7 +3,6 @@
 ### Files
 
 * Product Configurator component input data - `./productOptionsData.json`
-* Theme - `./theme.js`
 * Product shot - `./productShot.jpeg`
 
 ### Bootstrapping 
